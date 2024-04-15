@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZGJYCLiY5joy1ILZFodJSG2BWRrTqbG/SNm/QLlerkg=",
+  "Source": "BearerTokensAuth",
+  "BasePath": "_content/BearerTokensAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
